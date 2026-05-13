@@ -6,7 +6,7 @@ Welcome to my GitHub! | I'm Robert. I am an Electronic Engineer with experience 
 
 ## 🔗 About Me
 
-- 🎓 **Major:** Electronic Enginner
+- 🎓 **Major:** Electronic Engineer
 - 📍 **Location:** Bogota - Colombia
 - 💼 **Current Job/Position:** Finding new challenges
 - 🌱 **Current Learning:** FrontEnd development, Artificial Intelligence, blockchains & crypto.
