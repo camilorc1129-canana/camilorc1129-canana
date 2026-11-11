@@ -1,6 +1,6 @@
 # Hi, I'm Robert Rodriguez 👋
 
-Welcome to my GitHub! | I'm Robert. I am an Electronic Engineer with experience in IT support, Web Software Development, and as a Wireline & Perforating Field Engineer in the Oil & Gas industry |👨‍💻 Currently, I am a Front-End Developer in training and a 👨‍🚀 Platzi student.
+Welcome to my GitHub! | I'm Robert. I am an Electronics Engineer with experience in IT support and Web Software Development. As a Wireline & Perforating Field Engineer in the Oil & Gas industry | 👨‍💻 Currently, I am a Front-End Developer in training,👨‍🚀 Platzi student.
 
 ---
 
